@@ -21,11 +21,6 @@ header {
     text-shadow: 0 2px 0 white, 0 3px 0 grey, 0 3px 4px grey;
 }
 
-.mainImg {
-    margin: 1em 0;
-    max-width: 100%;
-    border-radius: 4%;
-}
 
 .headerInner {
     justify-content: space-between;
@@ -33,6 +28,12 @@ header {
     display: flex;
     min-width: 100%;
     box-shadow: 0 10px 0 -5px #000, 0 20px 0 -10px #555, 0 30px 0 -15px #AAA, 0 40px 0 -20px #EEE;
+}
+
+.mainImg {
+    margin: 1em 0;
+    max-width: 100%;
+    border-radius: 4%;
 }
 
 .bigImg {
